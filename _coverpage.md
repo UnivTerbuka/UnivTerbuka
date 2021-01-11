@@ -1,3 +1,5 @@
+<!-- Logo UT -->
+
 ![logo Universitas Terbuka](_media/logo-ut-small-transparent.png)
 
 # Universitas Terbuka <small>UT</small>
@@ -18,3 +20,7 @@
 [Areditasi BAN-PT](/akreditasi.md)
 [Biaya Pendidikan](/biaya-pendidikan.md)
 [Registrasi Online](https://sia.ut.ac.id/register)
+
+<!-- background color -->
+
+![color](#ffffff)
