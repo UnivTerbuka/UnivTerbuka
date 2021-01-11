@@ -11,3 +11,10 @@ UT memiliki 4 Fakultas, yaitu:
 - Fakultas Keguruan dan Ilmu Pendidikan (FKIP) untuk jenjang Diploma dan Sarjana.
 
 Sejak tahun 2004, UT membuka jenjang Magister pada Program Pascasarjana. Sejak tahun 2019, UT membuka program Doktor.
+
+- [Beranda](/README.md)
+- [Visi & Misi](/visi-misi.md)
+- [Areditasi BAN-PT](/akreditasi.md)
+- [Biaya Pendidikan](/biaya-pendidikan.md)
+- [Katalog](/katalog.md)
+- [Logo UT](/logo-ut.md)
