@@ -1,8 +1,6 @@
 <!-- Logo UT -->
 
-![logo Universitas Terbuka](_media/logo-ut-small-transparent.png)
-
-# Universitas Terbuka <small>UT</small>
+![Universitas Terbuka](_media/logo-ut-small-transparent.png)
 
 > Menjadi perguruan tinggi terbuka dan jarak jauh (PTTJJ) berkualitas dunia
 
