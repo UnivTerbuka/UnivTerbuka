@@ -15,3 +15,6 @@
 - Memanfaatkan dan mendiseminasikan hasil kajian keilmuan, kelembagaan, dan PTJJ untuk menjawab tantangan kebutuhan pembangunan nasional.
 
 [Universitas Terbuka](https://www.ut.ac.id/)
+[Areditasi BAN-PT](/akreditasi.md)
+[Biaya Pendidikan](/biaya-pendidikan.md)
+[Registrasi Online](https://sia.ut.ac.id/register)
