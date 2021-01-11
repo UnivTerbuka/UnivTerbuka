@@ -1,0 +1,6 @@
+- [Beranda](/README.md)
+- [Visi & Misi](/visi-misi.md)
+- [Akreditasi](/akreditasi.md)
+- [Biaya Pendidikan](/biaya-pendidikan.md)
+- [Katalog](/katalog.md)
+- [Logo UT](/logo-ut.md)
